@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+  <b:Source>
+    <b:SourceType>generic</b:SourceType>
+    <b:Title>Pyjamas, Polysomnography and Professional Athletes: The Role of Sleep Tracking Technology in Sport</b:Title>
+    <b:Year>2023</b:Year>
+    <b:Month>1</b:Month>
+    <b:StandardNumber>20754663</b:StandardNumber>
+    <b:Publisher>MDPI</b:Publisher>
+    <b:JournalName>Sports</b:JournalName>
+    <b:Volume>11</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Matthew W.</b:First>
+            <b:Last>Driller</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ian C.</b:First>
+            <b:Last>Dunican</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shauni E.T.</b:First>
+            <b:Last>Omond</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Omar</b:First>
+            <b:Last>Boukhris</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shauna</b:First>
+            <b:Last>Stevenson</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kari</b:First>
+            <b:Last>Lambing</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Amy M.</b:First>
+            <b:Last>Bender</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>pyjamas,-polysomnography-and-professional-athletes:-the-role-of-sleep-tracking-technology-in-sport</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Non-invasive analysis of sleep patterns via multimodal sensor input</b:Title>
+    <b:Year>2014</b:Year>
+    <b:Month>1</b:Month>
+    <b:StandardNumber>16174909</b:StandardNumber>
+    <b:Publisher>Springer London</b:Publisher>
+    <b:Pages>19-26</b:Pages>
+    <b:JournalName>Personal and Ubiquitous Computing</b:JournalName>
+    <b:Volume>18</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Vangelis</b:First>
+            <b:Last>Metsis</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dimitrios</b:First>
+            <b:Last>Kosmopoulos</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Vassilis</b:First>
+            <b:Last>Athitsos</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Fillia</b:First>
+            <b:Last>Makedon</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>non-invasive-analysis-of-sleep-patterns-via-multimodal-sensor-input</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>generic</b:SourceType>
+    <b:Title>Assistive technology to enable sleep function in patients with acquired brain injury: Issues and opportunities</b:Title>
+    <b:Year>2017</b:Year>
+    <b:Month>4</b:Month>
+    <b:StandardNumber>14776006</b:StandardNumber>
+    <b:Publisher>SAGE Publications Inc.</b:Publisher>
+    <b:Pages>225-249</b:Pages>
+    <b:JournalName>British Journal of Occupational Therapy</b:JournalName>
+    <b:Volume>80</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Anmol</b:First>
+            <b:Last>Biajar</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tatyana</b:First>
+            <b:Last>Mollayeva</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sandra</b:First>
+            <b:Last>Sokoloff</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Angela</b:First>
+            <b:Last>Colantonio</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>assistive-technology-to-enable-sleep-function-in-patients-with-acquired-brain-injury:-issues-and-opportunities</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A survey on sleep assessment methods</b:Title>
+    <b:Year>2018</b:Year>
+    <b:StandardNumber>21678359</b:StandardNumber>
+    <b:Publisher>PeerJ Inc.</b:Publisher>
+    <b:JournalName>PeerJ</b:JournalName>
+    <b:Volume>2018</b:Volume>
+    <b:Issue>5</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Vanessa</b:First>
+            <b:Last>Ibáñez</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Josep</b:First>
+            <b:Last>Silva</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Omar</b:First>
+            <b:Last>Cauli</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>a-survey-on-sleep-assessment-methods</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Validation of a consumer sleep wearable device with actigraphy and polysomnography in adolescents across sleep opportunity manipulations</b:Title>
+    <b:Year>2019</b:Year>
+    <b:Month>9</b:Month>
+    <b:StandardNumber>15509397</b:StandardNumber>
+    <b:Publisher>American Academy of Sleep Medicine</b:Publisher>
+    <b:Pages>1337-1346</b:Pages>
+    <b:JournalName>Journal of Clinical Sleep Medicine</b:JournalName>
+    <b:Volume>15</b:Volume>
+    <b:Issue>9</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Xuan Kai</b:First>
+            <b:Last>Lee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nicholas I.Y.N.</b:First>
+            <b:Last>Chee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ju Lynn</b:First>
+            <b:Last>Ong</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Teck Boon</b:First>
+            <b:Last>Teo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Elaine</b:First>
+            <b:Last>Van Rijn</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>June C.</b:First>
+            <b:Last>Lo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Michael W.L.</b:First>
+            <b:Last>Chee</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>validation-of-a-consumer-sleep-wearable-device-with-actigraphy-and-polysomnography-in-adolescents-across-sleep-opportunity-manipulations</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Nonconstrained sleep monitoring system and algorithms using air-mattress with balancing tube method</b:Title>
+    <b:Year>2010</b:Year>
+    <b:Month>1</b:Month>
+    <b:StandardNumber>10897771</b:StandardNumber>
+    <b:Pages>147-156</b:Pages>
+    <b:JournalName>IEEE Transactions on Information Technology in Biomedicine</b:JournalName>
+    <b:Volume>14</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jae Hyuk</b:First>
+            <b:Last>Shin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Young Joon</b:First>
+            <b:Last>Chee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Do Un</b:First>
+            <b:Last>Jeong</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kwang Suk</b:First>
+            <b:Last>Park</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>nonconstrained-sleep-monitoring-system-and-algorithms-using-air-mattress-with-balancing-tube-method</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Report</b:SourceType>
+    <b:Title>How Does Sleep Tracking Influence Your Life? Experiences from a Longitudinal Field Study with a Wearable Ring</b:Title>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Elina</b:First>
+            <b:Last>Kuosmanen</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.withings.com&#x2F;mx&#x2F;en&#x2F;sleep</b:URL>
+    <b:Tag>how-does-sleep-tracking-influence-your-life?-experiences-from-a-longitudinal-field-study-with-a-wearable-ring</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Book</b:SourceType>
+    <b:Title>2020 IEEE 91st Vehicular Technology Conference (VTC Spring) : proceedings : Antwerp, Belgium, 25-28 May 2020</b:Title>
+    <b:StandardNumber>9781728152073</b:StandardNumber>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>2020-ieee-91st-vehicular-technology-conference-(vtc-spring)-:-proceedings-:-antwerp,-belgium,-25-28-may-2020</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Validation of sleep-tracking technology compared with polysomnography in adolescents</b:Title>
+    <b:Year>2015</b:Year>
+    <b:Month>9</b:Month>
+    <b:StandardNumber>15509109</b:StandardNumber>
+    <b:Publisher>Associated Professional Sleep Societies,LLC</b:Publisher>
+    <b:Pages>1461-1468</b:Pages>
+    <b:JournalName>Sleep</b:JournalName>
+    <b:Volume>38</b:Volume>
+    <b:Issue>9</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Massimiliano</b:First>
+            <b:Last>De Zambotti</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Fiona C.</b:First>
+            <b:Last>Baker</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ian M.</b:First>
+            <b:Last>Colrain</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>validation-of-sleep-tracking-technology-compared-with-polysomnography-in-adolescents</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Development and preliminary validation of heart rate and breathing rate detection using a passive, ballistocardiography-based sleep monitoring system</b:Title>
+    <b:Year>2009</b:Year>
+    <b:StandardNumber>10897771</b:StandardNumber>
+    <b:Pages>111-120</b:Pages>
+    <b:JournalName>IEEE Transactions on Information Technology in Biomedicine</b:JournalName>
+    <b:Volume>13</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>David C.</b:First>
+            <b:Last>Mack</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>James T.</b:First>
+            <b:Last>Patrie</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Paul M.</b:First>
+            <b:Last>Suratt</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Robin A.</b:First>
+            <b:Last>Felder</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Majd</b:First>
+            <b:Last>Alwan</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>development-and-preliminary-validation-of-heart-rate-and-breathing-rate-detection-using-a-passive,-ballistocardiography-based-sleep-monitoring-system</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>7</b:Title>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>7</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Book</b:SourceType>
+    <b:Title>2019 2nd International Conference on Safety Produce Informatization (IICSPI) : proceedings : Chongqing, China, November 28-30, 2019</b:Title>
+    <b:StandardNumber>9781728145662</b:StandardNumber>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Guorong</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Institute of Electrical and Electronics Engineers. Beijing Section. Reliability Society Chapter</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Institute of Electrical and Electronics Engineers</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>2019-2nd-international-conference-on-safety-produce-informatization-(iicspi)-:-proceedings-:-chongqing,-china,-november-28-30,-2019</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Current Status and Future Challenges of Sleep Monitoring Systems: Systematic Review</b:Title>
+    <b:Year>2020</b:Year>
+    <b:Month>8</b:Month>
+    <b:Publisher>JMIR Publications Inc.</b:Publisher>
+    <b:Pages>e20921</b:Pages>
+    <b:JournalName>JMIR Biomedical Engineering</b:JournalName>
+    <b:Volume>5</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Qiang</b:First>
+            <b:Last>Pan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Damien</b:First>
+            <b:Last>Brulin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Eric</b:First>
+            <b:Last>Campo</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>current-status-and-future-challenges-of-sleep-monitoring-systems:-systematic-review</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Sleep tracking in the real world: A qualitative study into barriers for improving sleep</b:Title>
+    <b:Year>2016</b:Year>
+    <b:Month>11</b:Month>
+    <b:StandardNumber>9781450346184</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery, Inc</b:Publisher>
+    <b:Pages>537-541</b:Pages>
+    <b:JournalName>Proceedings of the 28th Australian Computer-Human Interaction Conference, OzCHI 2016</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Zilu</b:First>
+            <b:Last>Liang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Bernd</b:First>
+            <b:Last>Ploderer</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>sleep-tracking-in-the-real-world:-a-qualitative-study-into-barriers-for-improving-sleep</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Report</b:SourceType>
+    <b:Title>Development of a Sleep Monitoring System with Wearable Vital Sensor for Home Use. DEVELOPMENT OF A SLEEP MONITORING SYSTEM WITH WEARABLE VITAL SENSOR FOR HOME USE</b:Title>
+    <b:Year>2009</b:Year>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Kazushige</b:First>
+            <b:Last>Ouchi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Takuji</b:First>
+            <b:Last>Suzuki</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ken-Ichi</b:First>
+            <b:Last>Kameyama</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Masaya</b:First>
+            <b:Last>Takahashi</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.researchgate.net&#x2F;publication&#x2F;221335140</b:URL>
+    <b:Tag>development-of-a-sleep-monitoring-system-with-wearable-vital-sensor-for-home-use.-development-of-a-sleep-monitoring-system-with-wearable-vital-sensor-for-home-use</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Book</b:SourceType>
+    <b:Title>Proceedings, the Eleventh 2016 International Conference on Knowledge, Information and Creativity Support Systems (The KICSS 2016) : 10-11 November 2016, Royal Ambarrukmo Yogyakarta Hotel, Yogyakarta, Indonesia.</b:Title>
+    <b:StandardNumber>9781509051304</b:StandardNumber>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Universitas Bina Nusantara</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Institute of Electrical and Electronics Engineers</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Institute of Electrical and Electronics Engineers. Indonesia Section</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>proceedings,-the-eleventh-2016-international-conference-on-knowledge,-information-and-creativity-support-systems-(the-kicss-2016)-:-10-11-november-2016,-royal-ambarrukmo-yogyakarta-hotel,-yogyakarta,-indonesia.</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>A Real-Time Sleep Monitoring System with a Smartphone</b:Title>
+    <b:Year>2015</b:Year>
+    <b:Month>9</b:Month>
+    <b:StandardNumber>9781479988730</b:StandardNumber>
+    <b:Publisher>Institute of Electrical and Electronics Engineers Inc.</b:Publisher>
+    <b:Pages>458-461</b:Pages>
+    <b:JournalName>Proceedings - 2015 9th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing, IMIS 2015</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Tae Yang</b:First>
+            <b:Last>Han</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Se Dong</b:First>
+            <b:Last>Min</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yunyoung</b:First>
+            <b:Last>Nam</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>a-real-time-sleep-monitoring-system-with-a-smartphone</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Book</b:SourceType>
+    <b:Title>7th IEEE International Conference on Cognitive Infocommunications : CogInfoCom 2016 : proceedings : October 16-18, 2016, Wrocław. Poland.</b:Title>
+    <b:StandardNumber>9781509026456</b:StandardNumber>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>IEEE Poland Section</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Institute of Electrical and Electronics Engineers</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>7th-ieee-international-conference-on-cognitive-infocommunications-:-coginfocom-2016-:-proceedings-:-october-16-18,-2016,-wrocław.-poland.</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Heart rate variability in normal and pathological sleep</b:Title>
+    <b:Year>2013</b:Year>
+    <b:Month>10</b:Month>
+    <b:StandardNumber>1664042X</b:StandardNumber>
+    <b:Publisher>Frontiers Research Foundation</b:Publisher>
+    <b:Pages>1-11</b:Pages>
+    <b:JournalName>Frontiers in Physiology</b:JournalName>
+    <b:Volume>4</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Eleonora</b:First>
+            <b:Last>Tobaldini</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lino</b:First>
+            <b:Last>Nobili</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Silvia</b:First>
+            <b:Last>Strada</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Karina R.</b:First>
+            <b:Last>Casali</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alberto</b:First>
+            <b:Last>Braghiroli</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nicola</b:First>
+            <b:Last>Montano</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>heart-rate-variability-in-normal-and-pathological-sleep</b:Tag>
+  </b:Source>
+</b:Sources>

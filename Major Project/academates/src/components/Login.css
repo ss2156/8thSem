@@ -1,0 +1,149 @@
+* {
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+.container {
+	height: 100vh;
+	width: 100%;
+	display: grid;
+	grid-template: 100vh/repeat(2, 50%);
+}
+
+.left {
+	width: 100%;
+}
+
+.right {
+	height: 100%;
+	width: 100%;
+	background-color: #4C6FC0;
+	display: flex;
+}
+
+.title h1 {
+	color: #4C6FC0;
+	margin: 1rem;
+}
+
+.title {
+	height: 10%;
+}
+
+.title-image {
+	height: 85%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.title-image img{
+	height: 600px;
+	width: auto;
+}
+
+.outer-container {
+	width: 100%;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.inner-container {
+	width: 70%;
+	height: 60%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-evenly;
+}
+
+.content-body {
+	position: relative;
+	/* margin-top: 15%; */
+}
+
+#alert-text {
+	width: 100%;
+	position: absolute;
+	top: -3rem;
+	text-align: center;
+}
+
+.content-body label{
+	display: block;
+}
+
+.content-body input {
+	height: 2.2rem;
+	width: 18rem;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+	margin: 5px 0px;
+	padding: 1rem;
+}
+
+.forgot-password-section{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.forgot-password-section .check {
+	display: flex;
+	align-items: center;
+	gap: 0.25rem;
+}
+
+.forgot-password-section .check input{
+	height: 1rem;
+	width: 1rem;
+	border: none;
+	outline: none;
+}
+
+.forgot-password-section .check p{
+	display: inline;
+}
+
+/* .footer {
+	margin-top: 5%;	
+} */
+
+.footer button {
+	height: 2.5rem;
+	width: 18rem;
+	background-color: #94abe1;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	font-size: 1.2rem;
+	color: white;
+}
+
+.footer button:hover{
+	background-color: #6d93eb;
+}
+
+a {
+	color: white;
+}
+
+@media screen and (max-width: 1000px) {
+	.container {
+		grid-template: 100vh/100%;
+	}
+
+	.left {
+		display: none;
+	}
+
+	.right {
+		width: 100%;
+	}
+}
+
