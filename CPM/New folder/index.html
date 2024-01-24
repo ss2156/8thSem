@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Time Zone Converter</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+      }
+      .input-area {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin-bottom: 20px;
+      }
+      .timezone-select {
+        margin-left: 10px;
+      }
+      .converted-time {
+        margin-top: 20px;
+        font-size: 24px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="input-area">
+      <input type="datetime-local" id="datetime" onchange="convertTime()" />
+      <select id="timezone" onchange="convertTime()">
+        <option value="UTC">UTC</option>
+        <option value="IST">IST</option>
+      </select>
+    </div>
+    <div class="converted-time" id="converted-time"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
